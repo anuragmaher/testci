@@ -17,11 +17,11 @@
     },
     "autoload": {
         "classmap": [
-            "database",
-            "tests/TestCase.php"
+            "database"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "tests/TestCase.php"
         }
     },
     "autoload-dev": {

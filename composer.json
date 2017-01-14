@@ -20,8 +20,7 @@
             "database"
         ],
         "psr-4": {
-            "App\\": "app/",
-            "tests/TestCase.php"
+            "App\\": "app/"
         }
     },
     "autoload-dev": {

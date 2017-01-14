@@ -3,6 +3,7 @@
 /storage/*.key
 /vendor
 /vendor1
+/vendor2
 /.idea
 Homestead.json
 Homestead.yaml

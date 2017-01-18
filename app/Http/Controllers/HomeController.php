@@ -6,6 +6,9 @@ use Illuminate\Http\Request;
 
 class homecontroller{ $th }
 
+class homecontrollerwa { $th }
+
+
 class HomeController extends Controller
 {
     /**

@@ -9,6 +9,8 @@
 
 ## About Laravel
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1a88ff84519a43e8955982f98d398d72)](https://www.codacy.com/app/anurag/testci?utm_source=github.com&utm_medium=referral&utm_content=anuragmaher/testci&utm_campaign=badger)
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
